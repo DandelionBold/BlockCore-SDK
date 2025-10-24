@@ -1,5 +1,12 @@
 # Learning Path - BlockCore-SDK
 
+**Navigation**: [BlockCore-SDK](../README.md) > [Learning](README.md)
+
+**Document Version**: 1.0  
+**Last Updated**: 2025-10-18  
+**Reading Time**: 18 minutes  
+**Difficulty**: Intermediate
+
 Welcome to the BlockCore-SDK learning journey! This section is designed for developers transitioning from enterprise development to game engine tooling development.
 
 ## 🎯 Learning Objectives
@@ -20,8 +27,8 @@ By the end of this learning path, you'll understand:
 
 ### Version-Based Learning
 - [v0.1 Learning Guide](v0.1/what-you-will-learn.md) - Core CLI tooling
-- [v0.2 Learning Guide](v0.2/what-you-will-learn.md) - Schema validation *(Coming Soon)*
-- [v0.3 Learning Guide](v0.3/what-you-will-learn.md) - Template systems *(Coming Soon)*
+- [v0.2 Learning Guide](v0.2/what-you-will-learn.md) - Schema validation *(Planned)*
+- [v0.3 Learning Guide](v0.3/what-you-will-learn.md) - Template systems *(Planned)*
 
 ### Reference Materials
 - [Glossary](reference/glossary.md) - SDK development terminology

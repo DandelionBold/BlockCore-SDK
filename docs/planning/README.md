@@ -23,7 +23,7 @@ This directory contains comprehensive planning and architectural documentation f
 ### Future Versions
 
 - v0.2 Plan *(Coming after v0.1 completion)*
-- v0.3 Plan *(Coming Soon)*
+- v0.3 Plan *(Planned)*
 
 ---
 

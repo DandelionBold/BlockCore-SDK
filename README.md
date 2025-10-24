@@ -96,9 +96,9 @@ Custom rendering profiles:
 - **🎓 Learning Path**: [Comprehensive guides](docs/learning/README.md) for developers transitioning from enterprise development to SDK development
 - [Planning & Roadmap](docs/planning/overall.md) - SDK vision and roadmap
 - [v0.1 Development Plan](docs/planning/v0.1.md) - Current milestone
-- CLI Reference *(Coming Soon)*
-- Plugin API Reference *(Coming Soon)*
-- Pack Format Guide *(Coming Soon)*
+- [CLI Reference](docs/cli/README.md) - Complete command reference
+- [Plugin API Reference](docs/api/README.md) - Plugin development API
+- [Pack Format Guide](docs/packs/README.md) - Resource pack specifications
 
 ---
 
@@ -171,10 +171,10 @@ blockcore install HomeTP-1.0.0.zip --game-path ~/Games/MineWorld
 
 ## 🎓 Tutorials
 
-- Creating Your First Plugin *(Coming Soon)*
-- Building a Resource Pack *(Coming Soon)*
-- Data Pack Best Practices *(Coming Soon)*
-- Shader Pack Development *(Coming Soon)*
+- [Creating Your First Plugin](docs/tutorials/first-plugin.md) - Step-by-step plugin creation
+- [Building a Resource Pack](docs/tutorials/resource-pack.md) - Complete resource pack guide
+- [Data Pack Best Practices](docs/tutorials/data-pack-best-practices.md) - Data pack guidelines
+- [Shader Pack Development](docs/tutorials/shader-pack.md) - Custom shader development
 
 ---
 
@@ -229,10 +229,32 @@ Example assets and templates are licensed under [CC BY 4.0](LICENSE-CC-BY-4.0).
 
 ---
 
+## 🌟 Related Projects
+
+### Core Engine
+- **[BlockCore](https://github.com/DandelionBold/BlockCore)** - Game engine that BlockCore-SDK extends
+  - Plugin architecture and APIs
+  - Rendering and physics systems
+  - [Engine Documentation](https://github.com/DandelionBold/BlockCore/blob/main/docs/learning/README.md)
+
+### Game Implementation
+- **[MineWorld](https://github.com/DandelionBold/MineWorld)** - Reference game built on BlockCore
+  - Real-world plugin examples
+  - Game-specific extensions
+  - [Game Documentation](https://github.com/DandelionBold/MineWorld/blob/main/docs/learning/README.md)
+
+### Game-Specific Tools
+- **[MineWorld-SDK](https://github.com/DandelionBold/MineWorld-SDK)** - Modding toolkit for MineWorld
+  - Game content creation tools
+  - Mod templates and examples
+  - [Modding Guide](https://github.com/DandelionBold/MineWorld-SDK/blob/main/docs/learning/README.md)
+
+---
+
 ## 💬 Community
 
 - GitHub Issues: Bug reports and feature requests
-- Discussions: SDK questions and feedback *(Coming Soon)*
+- Discussions: SDK questions and feedback
 
 ---
 
