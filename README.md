@@ -93,6 +93,7 @@ Custom rendering profiles:
 
 ## 📚 Documentation
 
+- **🎓 Learning Path**: [Comprehensive guides](docs/learning/README.md) for developers transitioning from enterprise development to SDK development
 - [Planning & Roadmap](docs/planning/overall.md) - SDK vision and roadmap
 - [v0.1 Development Plan](docs/planning/v0.1.md) - Current milestone
 - CLI Reference *(Coming Soon)*
